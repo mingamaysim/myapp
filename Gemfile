@@ -41,4 +41,7 @@ gem 'rails_12factor', group: :production
 # To use debugger
 # gem 'debugger'
 
+gem 'unicorn'
+
 ruby '2.0.0'
+
