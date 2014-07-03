@@ -43,7 +43,7 @@ test:
   encoding: unicode
   database: myapp_test
   pool: 5
-  username: myapp
+  username: ming
   password:
 
 production:
